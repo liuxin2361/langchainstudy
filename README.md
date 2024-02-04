@@ -1,0 +1,2 @@
+# langchainstudy
+Langchain学習のためのソースコード
